@@ -19,6 +19,7 @@
         "import/no-extraneous-dependencies": "off",
         "arrow-parens": "off",
         "camelcase": "off",
-        "object-curly-newline": "off"
+        "object-curly-newline": "off",
+        "comma-dangle": "off"
     }
 }
